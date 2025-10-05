@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@turf/collect": "^7.2.0",
+    "@types/three": "^0.180.0",
+    "maplibre-gl": "^5.8.0",
+    "three": "^0.180.0",
+    "turf": "^3.0.14"
+  }
+}
