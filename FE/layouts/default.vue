@@ -11,6 +11,7 @@
           <li><NuxtLink to="/chat" class="hover:text-primary">Chat</NuxtLink></li>
           <li><NuxtLink to="/catalogo" class="hover:text-primary">Catalogo</NuxtLink></li>          
           <li><NuxtLink to="/about" class="hover:text-primary">About</NuxtLink></li>
+          <li><NuxtLink to="/test" class="hover:text-primary">test</NuxtLink></li>
         </ul>
       </div>
     </nav>
